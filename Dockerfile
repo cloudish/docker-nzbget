@@ -12,7 +12,8 @@ RUN \
 	p7zip \
 	python \
 	unrar \
-	wget
+	wget \
+	cifs-utils
 
 # install nzbget
 RUN \
